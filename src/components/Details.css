@@ -1,0 +1,15 @@
+.rightSide {
+  width: 30%;
+  text-align: center;
+  position: fixed;
+  right: 0;
+  margin: 5%;
+}
+
+.rightHeading {
+  padding: 10px;
+}
+
+th {
+  padding: 10px;
+}
